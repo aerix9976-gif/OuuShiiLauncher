@@ -6,10 +6,10 @@
     <color name="minebutton_color">@color/ouushii_accent</color>
     <color name="background_app">@color/ouushii_space</color>
     <color name="divider">@color/background_overlay</color>
-    <color name="background_overlay">#2A3A66</color>
+    <color name="background_overlay">#3A3A3A</color>
     <color name="background_status_bar">@color/ouushii_surface</color>
     <color name="background_bottom_bar">@color/ouushii_surface</color>
 
     <color name="primary_text">#FFFFFF</color>
-    <color name="secondary_text">#9FB3D9</color>
+    <color name="secondary_text">#B0B0B0</color>
 </resources>
