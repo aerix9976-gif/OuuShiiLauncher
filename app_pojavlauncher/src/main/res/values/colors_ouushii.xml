@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ouushii_space">#0A0F1F</color>
+    <color name="ouushii_surface">#121A2E</color>
+    <color name="ouushii_card">#1A2440</color>
+    <color name="ouushii_accent">#4DA3FF</color>
+    <color name="ouushii_glow">#6FE7FF</color>
+    <color name="ouushii_moon">#EAF2FF</color>
+</resources>
